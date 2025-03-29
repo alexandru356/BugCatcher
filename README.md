@@ -17,8 +17,8 @@ BugCatcher est une application de gestion de bogues qui permet aux utilisateurs 
 4. Comment accéder à l'application
 -->
 0. **Note importante**:
-    -Il faut utiliser une application cross-platforme comme Wamp Server ou Xampp (pour MacOS)
-    -Cette application permet d'avoir un mini web serveur localement pour avoir accès aux services Apache, MySQL et phpmyadmin.
+    - Il faut utiliser une application cross-platforme comme Wamp Server ou Xampp (pour MacOS)
+    - Cette application permet d'avoir un mini web serveur localement pour avoir accès aux services Apache, MySQL et phpmyadmin.
 1. **Cloner le projet** :
    - Clonez ce projet en utilisant la commande Git suivante :
      ```bash

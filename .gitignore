@@ -27,7 +27,6 @@ error_log
 *.phar
 
 # MySQL
-*.sql
 *.sqlite
 *.sqlite3
 *.db

@@ -1,0 +1,125 @@
+# WAMP Server
+.wamp-version
+
+# Windows OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# Apache
+.htaccess
+.htpasswd
+
+# PHP
+vendor/
+composer.lock
+composer.phar
+*.log
+php_errorlog
+error_log
+.phpunit.result.cache
+*.phar
+
+# MySQL
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.mwb
+*.mwb.bak
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+nbproject/
+.DS_Store
+.directory
+.project
+.settings/
+.classpath
+.c9/
+*.launch
+.buildpath
+.history
+*.code-workspace
+
+# Logs
+/log/
+/logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+bower_components/
+
+# Distribution directories
+/dist/
+/build/
+/out/
+
+# Cache
+.sass-cache/
+.tmp/
+.temp/
+.cache/
+.eslintcache
+.stylelintcache
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Project specific
+/upload/
+/uploads/
+/public/uploads/
+/public/assets/
+/storage/
+/coverage/
+/tests/coverage/
+/report/
+
+# Backup files
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp
+
+# Documentation
+/docs/

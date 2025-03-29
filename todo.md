@@ -1,0 +1,7 @@
+-Check nouveau.php line 30.
+-Comment the docs for every function created.
+-Put comment headers for each file.
+-Try to modalurize everything.
+-Once done, review everything and make sure it follows directives.
+-Once reviewed, make a list of questions you want to ask.
+-Do the readme.md
